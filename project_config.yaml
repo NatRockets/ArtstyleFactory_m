@@ -10,7 +10,7 @@ bundle_id: "com.whfb.artfact"
 
 # Путь к иконке приложения (1024x1024 PNG файл)
 # Можно использовать абсолютный или относительный путь
-icon_path: "assets/images/Icon.png"
+icon_path: "assets/images/Icon.jpg"
 
 # Team ID для подписи (опционально)
 # Можно найти в Apple Developer Portal
